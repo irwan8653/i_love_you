@@ -126,7 +126,7 @@ body {
   font-family: "Comic Sans MS", cursive;
   margin-bottom: 30px;
   color: #ffb86c;
-  font-size: 1em;
+  font-size: 1.8em; /* DIUBAH: Ukuran font diperbesar agar lebih mudah dibaca */
   animation: pulseGlow 2s infinite alternate ease-in-out,
     bounceIn 1s ease-out forwards; /* Gabungkan animasi */
 }
@@ -242,7 +242,7 @@ body {
 }
 
 /* ----------------------------------------------------- */
-/* MOBILE RESPONSIVE STYLES                */
+/* MOBILE RESPONSIVE STYLES                              */
 /* ----------------------------------------------------- */
 
 @media screen and (max-width: 768px) {
