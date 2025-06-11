@@ -102,7 +102,7 @@ body {
   height: 100%;
   background-color: rgba(40, 42, 54, 0.95); /* Sedikit lebih gelap lagi */
   color: #f8f8f2;
-  font-size: 2.8rem;
+  font-size: 3.5rem;
   font-weight: bold;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   z-index: 3;
@@ -126,7 +126,7 @@ body {
   font-family: "Comic Sans MS", cursive;
   margin-bottom: 30px;
   color: #ffb86c;
-  font-size: 1.8em; /* DIUBAH: Ukuran font diperbesar agar lebih mudah dibaca */
+  font-size: 2em; /* DIUBAH: Ukuran font diperbesar agar lebih mudah dibaca */
   animation: pulseGlow 2s infinite alternate ease-in-out,
     bounceIn 1s ease-out forwards; /* Gabungkan animasi */
 }
